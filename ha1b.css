@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    padding: 0;
+}
+
+div {
+    padding: 5px;
+}
+
+svg {
+    border: 1px black solid;
+}
+
+.bar {
+    width: 650;
+    height: 220;
+}
+
+.scatter {
+    width: 600;
+    height: 600;
+    border: 1px black solid;
+}
+
+.container {
+    position: relative;
+}
+
+.view {
+    width: 610px;
+}
