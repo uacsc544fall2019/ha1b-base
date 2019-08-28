@@ -1,7 +1,7 @@
 var grade_percents = {
-    "Project": 30,
+    "Project": 40,
     "Presentation": 5,
-    "Homework": 20,
+    "Homework": 15,
     "Participation": 5,
     "Midterm": 15,
     "Final": 20
